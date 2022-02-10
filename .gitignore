@@ -2,6 +2,13 @@ venv/
 .vscode/
 __pycache__/
 test.db
+.env
+.python-version
+venv
+.Python
+env/
+lib/
+bin/
 
 # OS generated files #
 ######################
